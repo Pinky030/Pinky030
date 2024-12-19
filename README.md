@@ -1,4 +1,6 @@
-## Hi there 👋
+<p align="center">
+![hachiware](https://github.com/user-attachments/assets/757ade93-63b8-4fd5-a05c-65a3fefa6b7f)
+</p>
 
 <!--
 **Pinky030/Pinky030** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
